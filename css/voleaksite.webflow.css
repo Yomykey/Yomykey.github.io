@@ -3913,7 +3913,7 @@ figcaption {
 }
 
 .nav-link-mask {
-  overflow: hidden;
+  overflow: visible;
   width: 100%;
 }
 
