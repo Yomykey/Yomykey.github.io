@@ -2584,7 +2584,7 @@ figcaption {
   right: 0%;
   bottom: 0%;
   z-index: 1500;
-  display: block;
+  display: none;
   overflow: hidden;
   width: 100vw;
   height: 100vh;
